@@ -22,7 +22,7 @@ The datasets containing injected anomalies are provided in the `dataset` folder.
  │   ├── ACM.mat
  │   ├── Cora.mat
  │   ├── citeseer.mat
-├── pkl
+├── run.py
 ├── ...
 ```
 
